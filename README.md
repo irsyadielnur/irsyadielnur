@@ -2,9 +2,8 @@
 - 👀 I’m interested in front-end web developer
 - 🌱 I’m currently learning bootstrap and tailwindcss
 - 📫 How to reach me
-- linkedin = irsyadi hanif elnur
-- instagram = irsyadielnur
-- facebook = irsyadielnur
+- linkedin = https://www.linkedin.com/in/irsyadihanifelnur/
+- instagram = https://www.instagram.com/irsyadielnur/
 - email = irsyadihanifelnur@gmail.com
 
 <!---
