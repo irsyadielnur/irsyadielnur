@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irsyadielnur, my full name Irsyadi Hanif Elnur
 - 👀 I’m interested in front-end web developer
-- 🌱 I’m currently learning bootstrap and tailwindcss
+- 🌱 I’m currently learning bootstrap, tailwindcss and PHP
 - 📫 How to reach me
 - linkedin = https://www.linkedin.com/in/irsyadihanifelnur/
 - instagram = https://www.instagram.com/irsyadielnur/
