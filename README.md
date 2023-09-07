@@ -1,3 +1,7 @@
+<div align="center">
+<img max-width="800" src="https://github.com/irsyadielnur/irsyadielnur/blob/main/02.jpg"/>
+</div>
+
 - 👋 Hi, I’m @irsyadielnur, my full name Irsyadi Hanif Elnur
 - 👀 I’m interested in front-end web developer
 - 🌱 I’m currently learning bootstrap, tailwindcss and PHP
