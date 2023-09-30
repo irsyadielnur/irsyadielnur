@@ -4,8 +4,8 @@
 
 ## <img height="40" src="https://github.com/irsyadielnur/irsyadielnur/blob/main/kyubey.gif"/> Hi, I’m irsyadi elnur, my full name Irsyadi Hanif Elnur 👋
 
-- 👀 I’m interested in front-end web developer
-- 🌱 I’m currently learning bootstrap, tailwindcss and PHP
+- 👀 I’m interested in front-end web developer and maybe next time Back-end Web
+- 🌱 I’m currently learning Bootstrap and Js
 - 📫 How to reach me
 <p align="center">
   <strong><a href="https://www.linkedin.com/in/irsyadihanifelnur/">LinkedIn</a></strong> |
