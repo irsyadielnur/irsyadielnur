@@ -1,8 +1,10 @@
 <div align="center">
 <img max-width="600" src="https://github.com/irsyadielnur/irsyadielnur/blob/main/03.jpg"/>
 </div>
+<img height="80" src="https://github.com/irsyadielnur/irsyadielnur/blob/main/nezuko_run_right.gif" />
 
-## <img height="50" src="https://github.com/irsyadielnur/irsyadielnur/blob/main/nezuko_run_right.gif" style="transform: scaleX(-1)"/><br /> Hallo 👋, <br /> I’m irsyadi, my full name Irsyadi Hanif Elnur 
+##
+Hallo 👋, I’m irsyadi, my full name Irsyadi Hanif Elnur 
 
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Next.js, Typescript and front-end library: Framer Motion & GSAP
